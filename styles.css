@@ -1,0 +1,20 @@
+body {
+  background-color: #ffb91b;
+}
+
+h1 {
+  font-family: Verdanda, sans-serif;
+  font-size: 1.7rem;
+  color: #363232;
+  border-bottom: 0.2rem solid #363232;
+}
+
+p {
+  font-family: Verdanda, sans-serif;
+  font-size: 1.2rem;
+  color: #363232;
+}
+
+img {
+  border-radius: 1.2rem;
+}
